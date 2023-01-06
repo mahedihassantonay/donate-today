@@ -185,3 +185,47 @@ main{
     line-height: 150%;
 }
 
+/* get my updates */
+.Get-my-updates{
+    text-align: center;
+    margin: 100px 300px;
+}
+.Get-my-updates .title{
+    margin-bottom: 20px;
+
+}
+
+.Get-my-updates .description{
+    margin-bottom: 40px;
+}
+.subscription{
+    display: flex;
+
+    background-color: #FFF4D5;
+    padding: 100px 170px 100px;
+}
+
+.subscription .email{
+    border: 0;
+    background-color: #D8D8D8;
+    border-radius: 4px;
+}
+
+/* footer */
+
+footer{
+    background-color:#0A0C16 ;
+    text-align: center;
+}
+
+footer .tittle{
+    color: #FF5959;
+    padding-top: 40px;
+    
+}
+
+footer .sub-title{
+    color: #D8D8D8;
+    padding-bottom: 40px;
+    
+}
