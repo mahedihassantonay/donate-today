@@ -122,7 +122,7 @@ main{
 
 .donate-plan-description{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 .donate-plan-child{
@@ -147,3 +147,41 @@ main{
     background-color: #FFF4D5;
     padding: 60px 20px;
 }
+
+/* contribution */
+.contribution-container{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.left-child{
+    
+    margin-top: 100px;
+    padding-right: 250px;
+    line-height: 150%;
+
+}
+
+.right-child{
+    margin-right: 150px
+    
+}
+
+.right-child img{
+    width: 500px;
+    height: 400px;
+    ;
+    
+}
+.left-child2 img{
+    width: 500px;
+    height: 400px;
+}
+
+.right-child2{
+    margin-right: 150px;
+    padding-left: 45px;
+    padding-top: 100px;
+    line-height: 150%;
+}
+
