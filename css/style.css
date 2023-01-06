@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+}
+ a{
+    text-decoration:none;
+    color: white;
+}
+
+a:hover{
+    opacity: 60%;
+}
+
+.donate-btn{
+    border: 0;
+    background-color: #FF5959;
+    border-radius: 2px;
+    padding: 10px 12px;
+    color: white;
+}
+
+.primary-title{
+    color: #121212;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+
+
+/* banner */
+
+header{
+    
+}
+
+.banner{
+    background-image: url(../images/donation20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    text-align: center;
+    padding-top: 250px;
+    
+}
+
+.banner-title{
+    font-weight: bolder;
+    font-size: 50px;
+    color: whitesmoke;
+
+}
+.banner-subtitle{
+    font-weight: bolder;
+    font-size: 40px;
+    color: whitesmoke;
+    margin-top: 10px;
+
+}
+.banner-description{
+    color: #FFFFFF;
+    opacity: 60%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+
+}
+
+/* donate-today */
+
+main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.donate-today{
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+
+}
+
+.donate-description{
+    margin-bottom: 50px;
+    color: gray;
+
+
+}
+
+.amount {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+    
+    
+    
+
+}
+
+.amount a{
+    color: gray;
+    font-size: 20px;
+    font-weight: 800;
+    background-color:#F9F9F9 ;
+    padding: 30px;
+    
+}
+.amount a:hover{
+    background-color: #FFEDED;
+    border: 3px solid #FF5959;
+    border-radius: 4px;
+    
+}
+.donate-today h4{
+    opacity: 50%;
+
+}
+/* our donate plan */
+
+.our-donate-plan{
+    margin-bottom: 50px;
+
+}
+
+.donate-plan-description{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.donate-plan-child{
+    display: flex;
+    gap: 20px;
+    line-height: 150%;
+    
+}
+
+.food-child{
+    background-color:#EDF5F6 ;
+    padding: 60px 20px;
+}
+
+.family-child{
+    background-color:#FFEEEE;
+    padding: 60px 20px;
+
+}
+
+.education-child{
+    background-color: #FFF4D5;
+    padding: 60px 20px;
+}
